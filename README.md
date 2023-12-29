@@ -6,7 +6,7 @@ II. Project Review
 
 In order to launch promotional campaign 6 to increase brand awareness and attract more customers, the company needs to perform a data analysis to measure the effectiveness of the previous 5 marketing campaigns, to identify the latest sales trends, to optimize its product offerings, and to make adjustments accordingly.
 
-III. KPIs that iFood company tracks:
+III. KPI that iFood company tracks:
 
 ●	Sales growth: the average revenue growth from 2018 to 2022 is used to measure whether the company achieved its sales targets compared to the previous fiscal years and how well it performed its market strategies.
 
@@ -20,7 +20,7 @@ III. KPIs that iFood company tracks:
 
 ●	Customer Satisfaction: this analysis measures which sales channels and which campaigns consumers complain about most, which will help the company further improve their operations and performance to meet the customers’ expectations.
 
-IV. Hadoop ecosystem tools used by the project are:
+IV. Hadoop ecosystem tools used by the project:
 
 1.HDFS
 
