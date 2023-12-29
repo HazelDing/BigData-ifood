@@ -7,16 +7,25 @@ In order to launch promotional campaign 6 to increase brand awareness and attrac
 
 Here are some KPIs that iFood company tracks:
 ●	Sales growth: the average revenue growth from 2018 to 2022 is used to measure whether the company achieved its sales targets compared to the previous fiscal years and how well it performed its market strategies.
+
 ●	Bottom line: the analysis of profits helps the company to evaluate its financial success and determines which marketing strategies they are going to take for the coming few years according to evolving social and environmental trends.
+
 ●	Product portfolios: the analysis is done by categorizing products based on their market growth and market share, which could better provide insights for the iFood to target their customers.     
+
 ●	Consumer demographics: iFood company tries to identify their customer purchase patterns and trends through analyzing their incomes, marital status, and age.
+
 ●	Sales Channels: iFood uses multiple sales channels to sell products, including brick and mortar stores, catalogues, deals and websites. The sales-channel analysis shows which channel outperforms the others.
+
 ●	Customer Satisfaction: this analysis measures which sales channels and which campaigns consumers complain about most, which will help the company further improve their operations and performance to meet the customers’ expectations.
 
 Hadoop ecosystem tools used by the project are:
+
 1.HDFS
+
 2.Hive
+
 3.Zeppelin
+
 4.Hbase 
 
 Conclusion 
