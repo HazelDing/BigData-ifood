@@ -36,3 +36,32 @@ Based on the analysis above, we discovered that consumer purchase patterns shift
 We will do both traditional advertising and digital marketing because website and stores are the two main sales channels. For traditional advertising we will launch a series of campaigns like TV commercials, in-store promotions, and community engagement. 
 As for digital marketing, we will do media marketing: leverage popular social media platforms like Instagram, TikTok, and Snapchat to showcase the brand's products in a fun and engaging way, such as recipe sharing and taste storytelling on our websites and social media to strengthen old customer loyalty and acquire new customers. 
 
+VI. Visualization
+
+![image](https://github.com/HazelDing/BigData-ifood/assets/149340952/10cf1576-56a7-4cea-ac70-6257a81f298c)
+
+![image](https://github.com/HazelDing/BigData-ifood/assets/149340952/a1b87b92-aa7e-44e8-b681-5d53f0b3c016)
+
+![image](https://github.com/HazelDing/BigData-ifood/assets/149340952/37945f7f-b242-4843-bbc5-0c67ad65136a)
+
+![image](https://github.com/HazelDing/BigData-ifood/assets/149340952/8d19556a-eb80-4bb0-904b-8490745e386c)
+
+![image](https://github.com/HazelDing/BigData-ifood/assets/149340952/57a57d9b-2985-4a56-8eb3-649577bfdbf5)
+
+![image](https://github.com/HazelDing/BigData-ifood/assets/149340952/cbffe92c-2a1f-40c6-84fb-59c5bd22cf6d)
+
+![image](https://github.com/HazelDing/BigData-ifood/assets/149340952/d68f6c72-1d84-4423-9650-c07ff3f69307)
+
+![image](https://github.com/HazelDing/BigData-ifood/assets/149340952/2f738fed-fb5d-4cf3-94cc-fd454ec54c3c)
+
+![image](https://github.com/HazelDing/BigData-ifood/assets/149340952/19effa15-be19-4f6b-b8b2-6207dd5c09a5)
+
+
+
+
+
+
+
+
+
+
